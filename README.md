@@ -18,13 +18,13 @@ beyond your set range.
 
 ## ✨ Features
 
--   🔔 **Real-time FX alerts** with toast notifications\
+-   🔔 **Real-time FX alerts** with toast notifications
 -   🟦🔴 **Tray icon color change** based on status (`OK` = blue,
-    `ALERT` = red)\
+    `ALERT` = red)
 -   ⚙️ **Configurable settings** (currencies, thresholds, refresh
-    interval) via GUI\
--   🛑 **Prevents multiple instances** with a mutex lock\
--   💾 **Settings saved** to `config.json`\
+    interval) via GUI
+-   🛑 **Prevents multiple instances** with a mutex lock
+-   💾 **Settings saved** to `config.json`
 -   🪟 Designed for **Windows 10/11** system tray
 
 ------------------------------------------------------------------------
