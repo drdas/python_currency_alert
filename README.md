@@ -40,8 +40,6 @@ pip install requests pystray pillow schedule win10toast-click pywin32
 or using requirements:
 
 ``` bash
-git clone https://github.com/your-username/currency-alert-app.git
-cd currency-alert-app
 pip install -r requirements.txt
 ```
 
