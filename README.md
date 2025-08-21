@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## ⚡ Usage
 
 1.  Get a free API key from [Alpha
-    Vantage](https://www.alphavantage.co/support/#api-key).\
+    Vantage](https://www.alphavantage.co/support/#api-key).
 
 2.  Open `currency_alert_app_hourly_no_api_key.py` in an editor.
 
@@ -70,14 +70,14 @@ pip install -r requirements.txt
 
 ## ⚙️ Settings
 
-You can configure:\
-- **Base / Target currency** (e.g., USD → JPY)\
-- **Low / High alert thresholds**\
+You can configure:
+- **Base / Target currency** (e.g., USD → JPY)
+- **Low / High alert thresholds**
 - **Refresh interval (minutes)**
 
 ### Methods
 
--   Right-click the tray icon → **Settings**\
+-   Right-click the tray icon → **Settings**
 
 -   Or edit `config.json` directly:
 
@@ -94,8 +94,8 @@ You can configure:\
 
 ## 🖥️ Example
 
--   Watching **USD → JPY**\
--   Interval = 15 minutes\
+-   Watching **USD → JPY**
+-   Interval = 15 minutes
 -   Alert when rate falls below `140.0` or rises above `160.0`.
 
 Tray icon changes color and shows a toast:
@@ -107,8 +107,8 @@ Tray icon changes color and shows a toast:
 
 ## 🚀 Future Improvements
 
--   Cross-platform support (Linux/Mac)\
--   Multiple pairs monitoring\
+-   Cross-platform support (Linux/Mac)
+-   Multiple pairs monitoring
 -   Graphical chart view of recent rates
 
 ------------------------------------------------------------------------
